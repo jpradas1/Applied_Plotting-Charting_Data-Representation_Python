@@ -51,3 +51,12 @@ the course are located in the Datasets directory of every week. Then each weekly
 > 
 > ![til](https://github.com/jpradas1/Applied_Plotting-Charting_Data-Representation_Python/blob/master/Week_3/distributions.gif)
 ## Fourth Week: Applied Visualizations
+> In this module, then everything starts to come together. The final assignment is entitled "Becoming a Data Scientist". This assignment requires to find at least two datasets on the web which are related, and that you visualize these datasets to answer a question with the broad topic of weather phenomena (see below) for the region of Bogotá, Bogota D.C., Colombia, or Colombia more broadly. So the question to answer is: How has the temperature changed over the last 4 decades (1981-2020) along Colombia? Graphics asnwering that are ([Assignment 4](https://github.com/jpradas1/Applied_Plotting-Charting_Data-Representation_Python/blob/master/Week_4/Assignment_4.ipynb))
+> 
+> <img src="./Week_4/Bogota_Colombia.jpg" width="600">
+> <img src="./Week_4/Buenaventura_Colombia.jpg" width="600">
+> <img src="./Week_4/Cocuy_Colombia.jpg" width="600">
+>
+> These visuals answer the question about how has the temperature changed over the last 4 decades along Colombia, use has been made of data from Bogota, Buenaventura and Cocuy, all cities from Colombia. Data goes from 1st January 1981 to 31st December 2019 and thanks to NASA's weather datasets this analysis was made. For a better analysis data related to 29th Febrary of each leap year was dismissed.
+> 
+> Each graph has two plot, top plot tells us about the highest temperature record for each day of the year over the 80's, 90's, 2000's and 2010's decades. As well as top plot, low plot has information on the lowest temperature record. We can notice that the temperatures of 2 last decades are higher than the 2 first ones, and we can see this behavior for each city. This could be product of Climate Change.
